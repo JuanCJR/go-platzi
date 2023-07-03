@@ -15,5 +15,7 @@ func main() {
 	}
 
 	//Encontrar valor
-	valu
+	value, ok := m["Jose"]
+	fmt.Println(value, ok)
+
 }

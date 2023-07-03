@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-
-	"./fmt"
 )
 
 func variables() {
