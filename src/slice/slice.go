@@ -1,4 +1,4 @@
-package main
+package slice
 
 import (
 	"fmt"
@@ -17,7 +17,8 @@ func isPalindromo(text string) {
 	}
 }
 
-func main() {
+// SliceFunc is a function
+func SliceFunc() {
 
 	slice := []string{"hola", "que", "hace"}
 	for _, valor := range slice {

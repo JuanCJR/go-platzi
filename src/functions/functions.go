@@ -1,4 +1,4 @@
-package main
+package functions
 
 import "fmt"
 
@@ -19,7 +19,8 @@ func dobleReturn(a int) (c, d int) {
 	return a, a * 2
 }
 
-func main() {
+//FunctionsFunc is a function
+func FunctionsFunc() {
 	normalFunction("Hola mundo")
 	tripleArgument(1, 2, "Hola")
 	value := returnValue(2)

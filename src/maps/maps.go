@@ -1,8 +1,9 @@
-package main
+package maps
 
 import "fmt"
 
-func main() {
+//MapsFunc is a function
+func MapsFunc() {
 	m := make(map[string]int)
 	m["Jose"] = 14
 	m["Pepito"] = 20

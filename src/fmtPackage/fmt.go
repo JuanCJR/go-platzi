@@ -1,10 +1,11 @@
-package main
+package fmtPackage
 
 import (
 	"fmt"
 )
 
-func FmtTest() {
+// FmtFunc is a function
+func FmtFunc() {
 	// Declaracion de variables
 	helloMessage := "Hello"
 	worldMessage := "world"

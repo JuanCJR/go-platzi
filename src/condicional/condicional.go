@@ -1,4 +1,4 @@
-package main
+package condicional
 
 import (
 	"fmt"
@@ -6,7 +6,8 @@ import (
 	"strconv"
 )
 
-func main() {
+// CondicionalFunc is a function
+func CondicionalFunc() {
 	valor1 := 1
 	valor2 := 2
 

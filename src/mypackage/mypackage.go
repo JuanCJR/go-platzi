@@ -5,3 +5,8 @@ type CarPublic struct {
 	Brand string
 	Year  int
 }
+
+type carPrivate struct {
+	Brand string
+	Year  int
+}

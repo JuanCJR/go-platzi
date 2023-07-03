@@ -1,8 +1,9 @@
-package main
+package ciclos
 
 import "fmt"
 
-func main() {
+//CiclosFunc is a function
+func CiclosFunc() {
 	//For condicional
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)

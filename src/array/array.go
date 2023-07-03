@@ -1,8 +1,9 @@
-package main
+package array
 
 import "fmt"
 
-func main() {
+// ArrayFunc is a function
+func ArrayFunc() {
 	//Array
 
 	var array [4]int
